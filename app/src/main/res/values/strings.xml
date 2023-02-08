@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practice Test App</string>
+    <string name="txt_hint">Enter Your Height</string>
+    <string name="txt_hint2">Enter Your Weight</string>
+    <string name="feet">Feet</string>
+    <string name="inh">Inches</string>
+    <string name="wgt">Weight in kg</string>
+    <string name="cal_bmi">Calculate bmi</string>
+    <string name="llres">llResult</string>
+    <string name="appName">BMI</string>
+
+</resources>
